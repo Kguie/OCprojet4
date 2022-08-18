@@ -1096,5 +1096,12 @@ p.text-center:nth-child(1) {
    .col-sm-6 {
     margin-bottom: 50px;
 } 
+
+@media (min-width: 768px){
+    footer .col-sm-4{
+        margin-left: 10%;
+    }
+}
+
    
    
