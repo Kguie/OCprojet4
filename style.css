@@ -1068,14 +1068,18 @@ p.text-center:nth-child(1) {
     margin-bottom: 5px;
    }
 
+   /*image title*/
    .bloc-md > div:nth-child(1) > div:nth-child(1) > img:nth-child(1) {
     max-width: 100%;
     width: 635px;
+    max-height: 75px;
    }
 
+   /*image citation*/
    .col-xs-12 > img:nth-child(1) {
     width: 567px;
     max-width: 100%;
+    max-height: 145px;
    }
    
    .navbar-header > img:nth-child(1) {
@@ -1091,6 +1095,7 @@ p.text-center:nth-child(1) {
    #bloc-4-portfolio > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > img:nth-child(1) {
     width: 476px;
     max-width: 100%;
+    max-height: 99px;
    }
    
    .col-sm-6 {
@@ -1102,6 +1107,7 @@ p.text-center:nth-child(1) {
         margin-left: 10%;
     }
 }
+
 
    
    
