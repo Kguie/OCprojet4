@@ -1,0 +1,16 @@
+{
+  "name": "OC-projet-4",
+  "version": "1.0.0",
+  "description": "Projet 4 de la formation développeur web de Openclassrooms, pour l'entreprise la Panthère.",
+  "main": "index.html",
+  "repository": "https://github.com/Kguie/OCprojet4.git",
+  "author": "Kévin Guieba <kevin.guieba@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "live-server": "^1.2.2"
+  },
+  "scripts": {
+    "start":"yarn live-server"
+  }
+}
